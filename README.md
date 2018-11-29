@@ -1,1 +1,1 @@
-# docs-pointlight
+# docs-point
