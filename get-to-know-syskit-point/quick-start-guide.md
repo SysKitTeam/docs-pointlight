@@ -17,7 +17,9 @@ Afterwards, when all the data are retrieved, on the __Dashboard__ screen, you 
 
 If certain types of errors occur during the load process, you’ll be able to review all the errors and their details. 
 
-Some of the reports have a __lock icon__ displayed, which means that they are available in our other tool – __SysKit Security Manager__. Other reports that have the __Coming soon__ tag, will be available soon in SysKit Point. 
+Some of the reports have a __lock icon__ displayed, which means that they are available in our other tool – __SysKit Security Manager__. Other reports that have the __Coming soon__ tag, will be available soon in SysKit Point.
+
+### Let's get started 
 
 On the __Total Users__ tile, you can see a list of all users found in your Office 365 tenant and their licensing status. 
 
