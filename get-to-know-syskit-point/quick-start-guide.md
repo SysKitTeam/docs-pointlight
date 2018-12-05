@@ -112,4 +112,4 @@ SysKit Point figures out what Office 365 services you’re using (like OneDrive,
 You’ll get a score based on the size of your Office 365 tenant and the sum of all the issues found there. After the score is recalculated, the reports used for the calculation will be highlighted in color. 
 
 
-For detailed information on user permission requirements, see [this article](#internal/requirements/user-permission-requirements).
+For detailed information on user permission requirements, see [this article](#internal/get-to-know-syskit-point/user-permission-requirements.md).
