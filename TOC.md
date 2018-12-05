@@ -5,7 +5,7 @@ private: true
 
 # Getting started
 
-## [User Permission Requirements](user-permission-requirements.md)
+## [User Permission Requirements](user-permission-requirements)
 Make sure that the account used for the application meet SysKit Point requirements.
 
 # Workflow
