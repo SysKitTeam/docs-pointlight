@@ -5,7 +5,7 @@ author: Andrea Budisa
 date: 11/12/2018
 ---
 
-We’ve released SysKit Point! This is the newest addition to our line of products created to help Office 365 global administrators with controlling the security and health of their environment. [SysKit Point](https://www.syskit.com/products/point/) is a free cloud-based solution and we intend to keep it free. To dig out more details, read this release note.
+We’ve released SysKit Point! This is the newest addition to our line of monitoring products, created to help Office 365 global administrators with __keeping their environment secure and healthy__. [SysKit Point](https://www.syskit.com/products/point/) is a free cloud-based solution and we intend to keep it free. To dig out more details, read this release note.
 
 We’re always eager to hear your feedback and suggestions!
 
@@ -16,15 +16,15 @@ Release date: Dec 13, 2018
 
 ## Collect intelligent data about your Office 365 environment on a single dashboard
 
-+ List all users found in your Office 365 tenant and their licensing status.
-+ List all Office 365 groups and associated Microsoft Teams found in your Office 365 tenant.
-+ List all external users in the Office 365 tenant and anonymous links.
-+ Get the default permission levels that have been customized.
-+ List all site collection Administrators within a site collection.
++ List __all users__ found in your Office 365 tenant and their __licensing status__.
++ List __all Office 365 groups__ and associated __Microsoft Teams__ found in your Office 365 tenant.
++ List __all external users__ in the Office 365 tenant and __anonymous links__.
++ Get the __default permission levels__ that have been customized.
++ List __all site collection Administrators__ within a site collection.
 + Identify groups without permissions and without users, orphaned users, etc.
-+ Get top users by storage used in OneDrive.
-+ Identify OneDrive which are close to exceeding the storage limit in the Office 365 tenant.
-+ List all Microsoft Teams found in your Office 365 tenant.
++ Get top users by __storage used__ in OneDrive.
++ Identify OneDrive which are __close to exceeding the storage limit__ in the Office 365 tenant.
++ List __all Microsoft Teams__ found in your Office 365 tenant.
 + And much more... 
 
 Read more about all available reports in our [Quick Start Guide](#internal/get-to-know-syskit-point/quick-start-guide).
