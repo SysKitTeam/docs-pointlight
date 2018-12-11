@@ -3,6 +3,12 @@ title: Table of Contents
 private: true
 ---
 
+# Support
+
+## [Product Updates](product-updates)
+We are continuously making SysKit Point better. See the latest product release info and explore the current and upcoming enhancements.
+### [SysKit Point 1.0.0 - Release Note](syskit-point-1-release-note.md)
+
 # Getting started
 
 ## [Requirements](requirements)
