@@ -46,7 +46,9 @@ Under the **Security** section, you can explore the following reports:
 
 Under the **Items with Unique Permissions** section, you can find out which reports are available in the SysKit Security Manager and read description that is more detailed:
 
-> **Note!** These reports are locked and available in the SysKit Security Manager.
+{% hint style="info" %}
+**Note!** These reports are locked and available in the SysKit Security Manager.
+{% endhint %}
 
 * **Subsite**: Shows all subsites with unique permissions. Organize your content to take advantage of permissions inheritance. Consider segmenting your content by security level - create a site or a library specifically for sensitive documents.
 * **Document Library**: Shows all document libraries with unique permissions. Organize your content to take advantage of permissions inheritance. Consider segmenting your content by security level - create a site or a library specifically for sensitive documents, rather than having them scattered in a larger library and protected by unique permissions.
