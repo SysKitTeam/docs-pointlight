@@ -1,9 +1,3 @@
----
-description: >-
-  This article provides a quick overview of all the features and usual steps
-  when accessing the application for the first time.
----
-
 # Quick Start Guide
 
 In this article, we will take you through some of the common use cases and usual steps when accessing the application for the first time. We have provided you with an overview of the entire application and how to use it. For detailed information on particular features, please explore our other articles.
@@ -46,7 +40,7 @@ Under the **Security** section, you can explore the following reports:
 
 Under the **Items with Unique Permissions** section, you can find out which reports are available in the SysKit Security Manager and read description that is more detailed:
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Note!** These reports are locked and available in the SysKit Security Manager.
 {% endhint %}
 
