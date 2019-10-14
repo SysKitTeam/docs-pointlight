@@ -12,7 +12,7 @@ We’ve released SysKit Point! This is the newest addition to our line of monito
 
 We’re always eager to hear your feedback and suggestions!
 
-[Try SysKit Point Free](https://point.syskit.com/)
+[Try SysKit Point Lite Free](https://point.syskit.com/)
 
 Product version: 1.0.0  
 Release date: Dec 13, 2018
