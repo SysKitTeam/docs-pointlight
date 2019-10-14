@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About SysKit Point](README.md)
+* [About SysKit Point Lite](README.md)
 * [Requirements](requirements/README.md)
   * [User Permission Requirements](requirements/user-permission-requirements.md)
 * [Get to Know SysKit Point](get-to-know-syskit-point/README.md)
