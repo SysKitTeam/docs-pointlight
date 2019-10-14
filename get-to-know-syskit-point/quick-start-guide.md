@@ -2,7 +2,7 @@
 
 In this article, we will take you through some of the common use cases and usual steps when accessing the application for the first time. We have provided you with an overview of the entire application and how to use it. For detailed information on particular features, please explore our other articles.
 
-Get started with SysKit Point - a free cloud-based solution for SharePoint Online and Office 365. It was created to help Global Administrators in Office 365 with controlling the security and gaining intelligent data for their environment.
+Get started with SysKit Point Lite - a free cloud-based solution for SharePoint Online and Office 365. It was created to help Global Administrators in Office 365 with controlling the security and gaining intelligent data for their environment.
 
 Within a single dashboard, you can analyze data related to **Users, Office 365 groups, OneDrive, MS Teams** as well as **Security & Cleanup**.
 
@@ -12,7 +12,7 @@ Afterwards, when all the data are retrieved, on the **Dashboard** screen, you wi
 
 If certain types of errors occur during the load process, you’ll be able to review all the errors and their details.
 
-Some of the reports have a **lock icon** displayed, which means that they are available in our other tool – **SysKit Security Manager**. Other reports that have the **Coming soon** tag, will be available soon in SysKit Point.
+Some of the reports have a **lock icon** displayed, which means that they are available in our other tool – **SysKit Security Manager**. Other reports that have the **Coming soon** tag, will be available soon in SysKit Point Lite.
 
 ### Let's get started
 
@@ -35,8 +35,8 @@ Under the **Security** section, you can explore the following reports:
 
 * **Customized Default Permission Levels**: Lists all site collections where the permissions contained within the default permission levels are customized.
 * **Site Collection Administrators**: Lists all site collection Administrators within a site collection, along with their login names.
-* **Differences in Permission Levels**: Lists all site collections where the permission levels are different when compared to other site collections. This will compare whether the permission levels with the same name, have different permissions across the site collections. _Note: This report will be available soon in SysKit Point._
-* **Multi-Factor Authentication for Admins**: Lists all Office 365 administrator accounts who have multi-factor authentication disabled on the Office 365 tenant. This includes site collection Administrators and Global Administrators. _Note: This report will be available soon in SysKit Point._
+* **Differences in Permission Levels**: Lists all site collections where the permission levels are different when compared to other site collections. This will compare whether the permission levels with the same name, have different permissions across the site collections. _Note: This report will be available soon in SysKit Point Lite._
+* **Multi-Factor Authentication for Admins**: Lists all Office 365 administrator accounts who have multi-factor authentication disabled on the Office 365 tenant. This includes site collection Administrators and Global Administrators. _Note: This report will be available soon in SysKit Point lite._
 
 Under the **Items with Unique Permissions** section, you can find out which reports are available in the SysKit Security Manager and read description that is more detailed:
 
@@ -73,14 +73,14 @@ Under the **Office 365 Groups & Teams** section, you can explore the following r
 
 * **Office 365 Groups**: Lists all Office 365 groups found in your Office 365 tenant. Groups with associated Microsoft Teams are included as well.
 * **Microsoft Teams**: Lists all Microsoft Teams found in your Office 365 tenant.
-* **Inactive Teams**: Lists all Microsoft Teams that have not been used within the last 3 months. _Note: This report will be available soon in SysKit Point._
+* **Inactive Teams**: Lists all Microsoft Teams that have not been used within the last 3 months. _Note: This report will be available soon in SysKit Point Lite._
 * **Inactive Groups**: Lists all Office 365 Groups that have not been used within the last 3 months. _Note: This report is locked and available in the SysKit Security Manager._
 
-Under the **Point Results** tile, you can explore the number of issues detected in your Office 365 tenant, upon which you can later take actions to improve the score and keep your environment healthy.
+Under the **Point Lite Results** tile, you can explore the number of issues detected in your Office 365 tenant, upon which you can later take actions to improve the score and keep your environment healthy.
 
-### How the Point Results are calculated?
+### How the Point Lite Results are calculated?
 
-SysKit Point figures out what Office 365 services you’re using \(like OneDrive, SharePoint, and Microsoft Teams\), then looks at your settings and activities and documents them through a set of reports and health checks established by SysKit.
+SysKit Point Lite figures out what Office 365 services you’re using \(like OneDrive, SharePoint, and Microsoft Teams\), then looks at your settings and activities and documents them through a set of reports and health checks established by SysKit.
 
 You’ll get a score based on the size of your Office 365 tenant and the sum of all the issues found there. After the score is recalculated, the reports used for the calculation will be highlighted in color.
 

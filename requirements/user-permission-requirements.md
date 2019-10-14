@@ -9,17 +9,17 @@ date: 05/12/2018
 
 # User Permission Requirements
 
-In order to utilize the reporting options in SysKit Point, you need to use an account with **Global SharePoint Online Administrator** privileges.
+In order to utilize the reporting options in SysKit Point Lite, you need to use an account with **Global SharePoint Online Administrator** privileges.
 
-## Why does SysKit Point need consent from a global administrator?
+## Why does SysKit Point Lite need consent from a global administrator?
 
-To achieve its functionality, SysKit Point is registered as an Azure Active Directory Application. Azure Active Directory Applications can use other resources from Azure. To use these resources the user running the web application must consent to the permissions that the application requires.
+To achieve its functionality, SysKit Point Lite is registered as an Azure Active Directory Application. Azure Active Directory Applications can use other resources from Azure. To use these resources the user running the web application must consent to the permissions that the application requires.
 
-When a global administrator uses SysKit Point he will go through the normal consent flow where a popup with the Microsoft consent page is shown.
+When a global administrator uses SysKit Point Lite he will go through the normal consent flow where a popup with the Microsoft consent page is shown.
 
 ## What permissions does SysKit Point require?
 
-SysKit Point requires the following delegated permissions:
+SysKit Point Lite requires the following delegated permissions:
 
 * Have full control of all site collections 
 * Read all usage reports 
@@ -38,5 +38,5 @@ If you at any time decide to revoke the given consent, you can do so by:
 1. Go to [Microsoft Azure portal](https://portal.azure.com/).
 2. Select **Azure Active Directory**. 
 3. Select **Enterprise Applications**. 
-4. Select **SysKit Point**.
+4. Select **SysKit Point Lite**.
 
