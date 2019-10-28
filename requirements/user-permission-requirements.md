@@ -17,7 +17,7 @@ To achieve its functionality, SysKit Point Lite is registered as an Azure Active
 
 When a global administrator uses SysKit Point Lite he will go through the normal consent flow where a popup with the Microsoft consent page is shown.
 
-## What permissions does SysKit Point require?
+## What permissions does SysKit Point Lite require?
 
 SysKit Point Lite requires the following delegated permissions:
 
