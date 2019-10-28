@@ -36,7 +36,7 @@ Read more about all available reports in our Quick Start Guide:
 
 ## Analyze, identify, and react
 
-Use SysKit Point **Score Results** to check the health of your Office 365 environment. It will analyze how aligned your regular activities and security settings are with best practices. Work on improving your score results by tracking and planning incremental improvements to your environment.
+Use  **Score Results** to check the health of your Office 365 environment. It will analyze how aligned your regular activities and security settings are with best practices. Work on improving your score results by tracking and planning incremental improvements to your environment.
 
 In case you are interested in a deeper dive into Office 365 security, permissions, Microsoft Teams and Office 365 groups' management, you might want to try out SysKit [Security Manager](https://www.syskit.com/products/security-manager/), check it out!
 
