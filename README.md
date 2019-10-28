@@ -8,5 +8,5 @@ SysKit Point Lite is a free cloud solution, which enables you to analyze your en
 
 Within a single dashboard, you can analyze data related to Users, Office 365 groups, OneDrive, MS Teams as well as Security & Cleanup.
 
-Register now and start analyzing your Office 365 tenant right away! [https://www.syskit.com/products/point/](https://www.syskit.com/products/point/)
+Register now and start analyzing your Office 365 tenant right away! [https://www.syskit.com/products/point-lite/](https://www.syskit.com/products/point/)
 
