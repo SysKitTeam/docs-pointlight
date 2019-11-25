@@ -32,7 +32,7 @@ Release date: Dec 13, 2018
 
 Read more about all available reports in our Quick Start Guide:
 
-{% page-ref page="../get-to-know-syskit-point/quick-start-guide.md" %}
+{% page-ref page="../get-to-know-syskit-point-lite/quick-start-guide.md" %}
 
 ## Analyze, identify, and react
 
