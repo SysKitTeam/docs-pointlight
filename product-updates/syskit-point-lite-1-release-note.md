@@ -5,14 +5,14 @@ author: Andrea Budisa
 date: 11/12/2018
 ---
 
-# SysKit Point 1.0.0
+# SysKit Point Lite 1.0.0
 
-We’ve released SysKit Point! This is the newest addition to our line of monitoring products, created to help Office 365 global administrators with **keeping their environment secure and healthy**.  
-[SysKit Point](https://www.syskit.com/products/point/) is a free cloud-based solution and we intend to keep it free. To dig out more details, read this release note.
+We’ve released SysKit Point Lite! This is the newest addition to our line of monitoring products, created to help Office 365 global administrators with **keeping their environment secure and healthy**.  
+[SysKit Point Lite](https://www.syskit.com/products/point-lite/) is a free cloud-based solution and we intend to keep it free. To dig out more details, read this release note.
 
 We’re always eager to hear your feedback and suggestions!
 
-[Try SysKit Point Lite Free](https://point.syskit.com/)
+[Try SysKit Point Lite Free](https://www.syskit.com/products/point-lite/download)
 
 Product version: 1.0.0  
 Release date: Dec 13, 2018
@@ -38,5 +38,5 @@ Read more about all available reports in our Quick Start Guide:
 
 Use  **Score Results** to check the health of your Office 365 environment. It will analyze how aligned your regular activities and security settings are with best practices. Work on improving your score results by tracking and planning incremental improvements to your environment.
 
-In case you are interested in a deeper dive into Office 365 security, permissions, Microsoft Teams and Office 365 groups' management, you might want to try out SysKit [Security Manager](https://www.syskit.com/products/security-manager/), check it out!
+In case you are interested in a deeper dive into Office 365 security, permissions, Microsoft Teams and Office 365 groups' management, you might want to try out [SysKit Point](https://www.syskit.com/products/point/), check it out!
 

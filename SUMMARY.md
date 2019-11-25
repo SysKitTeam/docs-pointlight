@@ -6,5 +6,5 @@
 * [Get to Know SysKit Point Lite](get-to-know-syskit-point/README.md)
   * [Quick Start Guide](get-to-know-syskit-point/quick-start-guide.md)
 * [Product Updates](product-updates/README.md)
-  * [SysKit Point 1.0.0](product-updates/syskit-point-1-release-note.md)
+  * [SysKit Point Lite 1.0.0](product-updates/syskit-point-lite-1-release-note.md)
 
